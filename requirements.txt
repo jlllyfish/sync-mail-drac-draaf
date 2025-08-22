@@ -1,0 +1,18 @@
+# Dépendances pour l'application d'envoi par lot DS x Grist
+
+# Framework web
+Flask==3.0.0
+Werkzeug==3.0.1
+
+# Requêtes HTTP
+requests==2.31.0
+urllib3==2.1.0
+
+# Utilitaires
+python-dotenv==1.0.0
+
+# Pour le développement (optionnel)
+flask-cors==4.0.0
+
+# Sécurité
+certifi==2023.11.17
