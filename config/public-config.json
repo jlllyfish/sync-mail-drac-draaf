@@ -1,0 +1,18 @@
+{
+  "demarche_number": 122654,
+  "export_date": "2025-08-22T15:59:45.837337",
+  "filter_logic": "AND",
+  "filters": [
+    {
+      "column": "state",
+      "operator": "equals",
+      "value": "accepte"
+    }
+  ],
+  "grist_doc_id": "6HM8Uiy3H6nx8M4fwTDM2N",
+  "grist_table": "Demarche_122654_dossiers",
+  "instructeur_id": "SW5zdHJ1Y3RldXItMTQ5MTM=",
+  "message_body": "<p>Bonjour, </p><p>Pour déposer votre bilan Drac DRAAF 25/26 prérempli, il vous suffira de suivre ces étapes :</p><p>1️⃣ <strong>Cliquez sur ce lien : </strong></p><p><a href=\"https://fetch-drac-draaf.up.railway.app/\" rel=\"noopener noreferrer\" target=\"_blank\">Fetch Drac Draaf</a></p><p>2️⃣ Une fois sur la page <strong>Fetch Drac Draaf</strong> :</p><ul><li>✉️ <strong>Saisissez l’adresse mail</strong> que vous avez utilisée sur <em>Démarches Simplifiées</em> pour déclarer votre mobilité individuelle.</li><li>🔍 <strong>Cliquez sur “Rechercher et générer les liens”</strong>.</li><li><strong>🚀</strong> <strong>Cliquez sur</strong> <strong> </strong>📄<strong>“Accéder au dossier”</strong>.</li></ul><p><br></p><p>Cordialement, </p><p>James Chaigneaud </p><p><em>Draaf Srfd Occitanie</em></p><p><br></p>",
+  "message_subject": "🔗 Déposer votre bilan Drac Draaf prérempli",
+  "version": "1.0"
+}
