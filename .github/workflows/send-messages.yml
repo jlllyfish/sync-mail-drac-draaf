@@ -1,9 +1,9 @@
-name: 🚀 Envoi automatique de messages DS
+name: 🚀 Envoi automatique de messages DS Drac Draaf
 
 on:
   schedule:
-    # Tous les jours à 9h00 UTC (10h00 Paris hiver, 11h00 Paris été)
-    - cron: '0 9 * * *'
+    # Tous les jours à 10h00 UTC (10h00 Paris hiver, 11h00 Paris été)
+    - cron: '0 10 * * *'
   workflow_dispatch:
     # Permet le déclenchement manuel depuis l'interface GitHub
     inputs:
